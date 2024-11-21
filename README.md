@@ -6,6 +6,8 @@ Currently, data are shared from satellite tags to researchers via a WAF or API h
 
 By capturing all of these information, we can generate an archive that is fit to be published to the Ocean Biodiversity Information System in near-realtime. By applying a summarization strategy that is in use for acoustic and satellite tags registered to the Ocean Tracking Network, we can ensure that we do not create too many data points for any one tagged individual, and by harvesting metadata meant to improve discovery of the full-resolution data, we can ensure provenance and attribution are satisfactory to all parties involved in the monitoring effort.
 
+## Data Flows
+
 These workflows are very much concerned with the reorganization of existing data into appropriate DarwinCore fields, and once finalized, should be able to be run using minimal hardware.
 
 Due to lags in reporting between tag and manufacturer, manufacturer and researcher, and the time it takes to run a correction model against the individual tracks, the aim is to achieve near-realtime on the order of 6-24 hours, though efforts can be put towards lowering this lag period.
