@@ -1,0 +1,2 @@
+DeployID,Ptt,Instr,SW,PercentDecoded,Passes,PercentArgosLoc,MsgPerPass,DS,DI,MinPower,AvgPower,MaxPower,MinInterval,EarliestXmitTime,LatestXmitTime,XmitDays,EarliestDataTime,LatestDataTime,DataDays,ReleaseDate,ReleaseType,DeployDate
+HF2024_1015_22U3184,264697,UT,1.00b,70,2605,98,3,7425,,,,,28,01:46:57 19-May-2024,23:29:09 03-Nov-2024,169,13:00:00 14-Dec-2021,04:38:40 03-Nov-2024,1055,,,01:00:00 19-May-2024

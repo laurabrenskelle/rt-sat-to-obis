@@ -1,0 +1,2 @@
+DeployID,Ptt,DepthSensor,Source,Instr,Count,Start,End,LocationQuality,Latitude,Longitude,MinDepth,MinDepthAccuracy,MaxDepth,MaxDepthAccuracy,MinTemp,MinTempAccuracy,MaxTemp,MaxTempAccuracy,MobMean,MobSD,ActivitySum
+HF2024_1015_22U3184,264697,0.500000,Transmission,UT,1,13:00:00 14-Dec-2021,13:00:00 14-Dec-2021,,,,,,,,7.6,0.00,35.3,0.00,,,
