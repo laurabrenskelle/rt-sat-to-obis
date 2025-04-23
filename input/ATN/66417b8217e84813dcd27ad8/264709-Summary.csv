@@ -1,0 +1,2 @@
+DeployID,Ptt,Instr,SW,PercentDecoded,Passes,PercentArgosLoc,MsgPerPass,DS,DI,MinPower,AvgPower,MaxPower,MinInterval,EarliestXmitTime,LatestXmitTime,XmitDays,EarliestDataTime,LatestDataTime,DataDays,ReleaseDate,ReleaseType,DeployDate
+PL2024_1010_22U3198,264709,UT,1.00b,58,4290,96,2,7548,,,,,33,02:17:45 13-May-2024,15:36:01 08-Jan-2025,241,02:00:00 13-May-2024,06:00:00 03-Dec-2024,204,,,02:00:00 13-May-2024
