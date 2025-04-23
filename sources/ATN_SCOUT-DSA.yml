@@ -1,0 +1,15 @@
+data: 
+  file: input/ATN/663afa0817e8481ac00a039a/242856-Locations.csv  # local files, files grouped by deployment id
+  file: input/ATN/663e11da17e8481ac00aa179/264751-Locations.csv
+  file: input/ATN/6629d3e317e8480430bbe6e7/264743-Locations.csv
+  file: input/ATN/6631bf4017e8481ac0084e9b/264746-Locations.csv
+  manufacturer: Wildlife Computers
+  model: SCOUT-DSA
+tags: 
+  file: input/ATN/Beltran_ATN Tag Deployment Metadata.csv
+  manufacturer: Wildlife Computers
+  model: SCOUT-DSA
+proj: 
+  file: input/ATN/Beltran_project_metadata.json
+  principalInvestigator: Roxanne Beltran
+outdir: output/ATN/

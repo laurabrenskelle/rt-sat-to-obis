@@ -1,0 +1,14 @@
+data: 
+  file: input/ATN/591db691efec720b18ab0bc8/160381-2-Locations.csv  # local files, files grouped by deployment id
+  file: input/ATN/5823eeccefec720f2c0a99c8/160375-3-Locations.csv
+  file: input/ATN/58112217efec720cd46e2650/160379-2-Locations.csv
+  manufacturer: Wildlife Computers
+  model: SCOUT-TEMP-361A
+tags: 
+  file: input/ATN/Holland_ATN Tag Deployment Metadata.csv
+  manufacturer: Wildlife Computers
+  model: SCOUT-TEMP-361A
+proj: 
+  file: input/ATN/Holland_project_metadata.json
+  principalInvestigator: Kim Holland
+outdir: output/ATN/

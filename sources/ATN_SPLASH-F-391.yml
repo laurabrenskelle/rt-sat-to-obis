@@ -1,0 +1,15 @@
+data: 
+  file: input/ATN/664c256217e84813dcd59050/264721-1-Locations.csv  # local files, files grouped by deployment id
+  file: input/ATN/6639c31d17e8481ac009c3b5/264706-1-Locations.csv
+  file: input/ATN/66417b8217e84813dcd27ad8/264709-1-Locations.csv
+  file: input/ATN/66495c4617e84813dcd50860/264697-1-Locations.csv
+  manufacturer: Wildlife Computers
+  model: SPLASH-F-391
+tags: 
+  file: input/ATN/London_ATN Tag Deployment Metadata.csv
+  manufacturer: Wildlife Computers
+  model: SPLASH-F-391
+proj: 
+  file: input/ATN/London_project_metadata.json
+  principalInvestigator: Josh London
+outdir: output/ATN/
